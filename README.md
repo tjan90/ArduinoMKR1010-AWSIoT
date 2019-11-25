@@ -1,1 +1,1 @@
-Visit [tjan90.github.io/projects-implemetations](tjan90.github.io/projects-implemetations)
+Visit [Here](https://tjan90.github.io/projects-implementations/)
